@@ -1,0 +1,1 @@
+(self.webpackChunkraijins_fronend=self.webpackChunkraijins_fronend||[]).push([[883],{5883:function(){}}]);
